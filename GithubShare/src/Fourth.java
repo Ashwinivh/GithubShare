@@ -1,9 +1,11 @@
 
-public class Fourth {
+public class Fourth
+{
 
-	public static void main(String[] args) {
+	public static void main(String[] args) 
+	{
 		System.out.println("adding class");
 
 	}
-
+	
 }
